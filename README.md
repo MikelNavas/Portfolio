@@ -1,23 +1,15 @@
-# Portfolio
+# Mikel Navas
 
-### Education
-Florida Gulf Coast University: Data Analytics and Informatics, Bachelors
+#### Skills: Python, SQL, Excel & VBA, PowerBI, Bilingual spanish, Data modeling, Data analysis, data visualization
 
-### Work Experience
-Publix Supermarkets, Grocery Clerk 2018-Present
+## Education			        		
+- B.S., Data Analytics & Informatics | Florida Gulf Coast University (_December 2024_)
 
-
-
-### Skills
-*SQL 
-*Python 
-*Excel 
-*PowerBI
-*Data modeling
-*Data Visualization
-*Data Analysis
-*Relational Databases
-*DDL, DCL, and DML
-*Spanish
-
-### Projects
+## Work Experience
+**Gricery Clerk @ Publix Supermarkets (_2018 - Present_)**
+- Respond to customer needs, provide product information, aisle locations, back stock checks, and price verifications
+- Unload daily trucks for grocery, dairy, frozen, bakery, and other relevant departments
+- maintain a FIFO inventory system by making sure shelves are properly stocked and rotated by date
+- responsible for daily and scheduled inventory counts, as well as accounting for damaged and donated goods in the dairy department
+## Projects
+### 
